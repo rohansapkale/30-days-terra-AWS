@@ -1,0 +1,1 @@
+#lock terraform and provider versions for consistency 
