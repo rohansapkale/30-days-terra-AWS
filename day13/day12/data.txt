@@ -1,0 +1,9 @@
+terrafomr functions types(u can use only built in funtions)
+1.Validation functions
+2.lookup functions
+3.date and time functions(timestampe,formatsdate)
+4.type conversion(toset,tonumber,tostring)
+5.collective functions(length,concat,merge)
+6.numeric functions(min,max,abs)
+7.string functions(uuper,lower,trim,replace,substr)
+8. file functions
